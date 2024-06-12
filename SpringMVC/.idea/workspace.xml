@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="ab51a8b4-4c9e-472c-a643-cf6afa17670e" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/Demo" beforeDir="false" afterPath="$PROJECT_DIR$/Demo" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Demo/cms/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Demo/cms/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Demo/cms/.idea/gradle.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Demo/cms/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Demo/cms/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Demo/cms/.idea/webContexts.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Demo/cms/build.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Demo/cms/gradle/wrapper/gradle-wrapper.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Demo/cms/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Demo/cms/gradlew" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Demo/cms/gradlew.bat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Demo/cms/settings.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Demo/cms/src/main/java/org/example/cms/HelloServlet.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Demo/cms/src/main/java/org/example/cms/controller/CustomerController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Demo/cms/src/main/java/org/example/cms/model/Customer.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Demo/cms/src/main/java/org/example/cms/service/CustomerService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Demo/cms/src/main/java/org/example/cms/service/CustomerServiceFactory.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Demo/cms/src/main/java/org/example/cms/service/impl/SimpleCustomerServiceImpl.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Demo/cms/src/main/webapp/WEB-INF/app-conf.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Demo/cms/src/main/webapp/WEB-INF/web.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Demo/cms/src/main/webapp/customers/info.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Demo/cms/src/main/webapp/customers/list.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Demo/cms/src/main/webapp/index.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Demo/convert-currency/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Demo/convert-currency/.idea/gradle.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Demo/convert-currency/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Demo/convert-currency/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Demo/convert-currency/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Demo/convert-currency/build.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Demo/convert-currency/gradle/wrapper/gradle-wrapper.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Demo/convert-currency/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Demo/convert-currency/gradlew" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Demo/convert-currency/gradlew.bat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Demo/convert-currency/settings.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Demo/convert-currency/src/main/java/org/example/convertcurrency/HelloServlet.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Demo/convert-currency/src/main/java/org/example/convertcurrency/controllers/ConvertCurrencyController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Demo/convert-currency/src/main/webapp/WEB-INF/applicationContext.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Demo/convert-currency/src/main/webapp/WEB-INF/dispatcher-servlet.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Demo/convert-currency/src/main/webapp/WEB-INF/views/form.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Demo/convert-currency/src/main/webapp/WEB-INF/web.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Demo/convert-currency/src/main/webapp/index.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Demo/dictionary/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Demo/dictionary/.idea/gradle.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Demo/dictionary/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Demo/dictionary/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Demo/dictionary/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Demo/dictionary/build.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Demo/dictionary/gradle/wrapper/gradle-wrapper.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Demo/dictionary/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Demo/dictionary/gradlew" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Demo/dictionary/gradlew.bat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Demo/dictionary/settings.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Demo/dictionary/src/main/java/org/example/dictionary/HelloServlet.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Demo/dictionary/src/main/java/org/example/dictionary/controllers/DictionaryController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Demo/dictionary/src/main/webapp/WEB-INF/applicationContext.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Demo/dictionary/src/main/webapp/WEB-INF/frontController-servlet.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Demo/dictionary/src/main/webapp/WEB-INF/views/form.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Demo/dictionary/src/main/webapp/WEB-INF/web.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Demo/dictionary/src/main/webapp/index.jsp" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "customColor": "",
+  "associatedIndex": 6
+}]]></component>
+  <component name="ProjectId" id="2hmVNnPf16Lsrn0rTq6QbWEiech" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "master",
+    "kotlin-language-version-configured": "true",
+    "nodejs_package_manager_path": "npm",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ab51a8b4-4c9e-472c-a643-cf6afa17670e" name="Changes" comment="" />
+      <created>1718199203971</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1718199203971</updated>
+      <workItem from="1718199205843" duration="202000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
